@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://stratingbooks-wq.github.io/sitemap.xml
