@@ -100,6 +100,12 @@ p{color:#c8c0b5}
 .page-hero p{max-width:740px}
 .details-grid{display:grid;grid-template-columns:280px 1fr;gap:9%;align-items:start}
 .detail-cover{width:100%;border:1px solid rgba(225,164,100,.4);box-shadow:15px 20px 40px rgba(0,0,0,.5)}
+.goodreads-shelf{margin-top:25px;padding:22px 20px;border:1px solid var(--line);background:linear-gradient(125deg,#171516,#111315)}
+.goodreads-shelf-label{margin:0 0 15px;color:var(--amber);font-size:12px;font-weight:700;letter-spacing:.16em}
+.goodreads-add-link{display:flex;align-items:center;gap:12px;color:var(--paper);font-size:13px;font-weight:600;line-height:1.4}
+.goodreads-add-link:hover{color:var(--gold)}
+.goodreads-shelf img{display:block;width:70px;height:25px;flex:none}
+.goodreads-shelf .small{margin:14px 0 0;font-size:13px;line-height:1.5}
 .cover-art-layout{display:grid;grid-template-columns:minmax(230px,.62fr) minmax(0,1.38fr);gap:6%;align-items:center}
 .cover-art-copy p{font-size:17px;line-height:1.8;max-width:440px}
 .cover-art-copy .small{font-size:14px;color:var(--muted)}
